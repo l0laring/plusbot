@@ -7,8 +7,6 @@
 "discord.js":"^11.5.1",
 "fstorm":"^0.1.3",
 "jimp":"^0.2.28",
-"express-glitch-keepalive": "^0.2.0",
-"express": "^4.16.4"
 },
 "scripts": {
     "start": "node bot.js"
